@@ -1,5 +1,13 @@
 change name from vmod_rewrite to vmod_redirect.
 
+shift with a change in name
+
+import rewrite
+  -> import redirect
+
+rewrite.location
+  -> redirect.location
+
 see: https://github.com/xcir/libvmod-redirect
 
 
